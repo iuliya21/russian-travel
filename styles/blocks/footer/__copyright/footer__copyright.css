@@ -1,0 +1,13 @@
+.footer__copyright {
+  margin: 0;
+  color: #fff;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1;
+}
+
+@media screen and (min-width: 768px) {
+  .places__website {
+    line-height: 1.14;
+  }
+}

@@ -1,0 +1,23 @@
+.places__text {
+  color: #fff;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.63;
+  display: flex;
+  flex-direction: column;
+  padding: 0 16px 0;
+  row-gap: 25px;
+}
+
+@media screen and (min-width: 768px) {
+  .places__text {
+    padding: 0;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .places__text {
+    row-gap: 27px;
+    font-size: 18px;
+  }
+}
