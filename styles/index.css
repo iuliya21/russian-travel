@@ -23,7 +23,8 @@
 @import url(../styles/blocks/section-title/section-title.css);
 @import url(../styles/blocks/section-text/section-text.css);
 @import url(../styles/blocks/section-list/section-list.css);
-@import url(../styles/blocks/section-list/_thin/section-list_thin.css);
+@import url(../styles/blocks/section-list/__text/section-list__text.css);
+@import url(../styles/blocks/section-list/__text/_type/section-list_type_thin.css);
 
 @import url(../styles/blocks/photo-grid/photo-grid.css);
 @import url(../styles/blocks/photo-grid/__item/photo-grid__item.css);
