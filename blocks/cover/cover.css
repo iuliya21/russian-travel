@@ -1,0 +1,36 @@
+.cover {
+  background-image: url(../../../images/cover-trains.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  min-height: 62.5vw;
+  max-width: 1184px;
+  margin: 0 auto;
+  font-family: 'Inter',  Arial, sans-serif;
+  font-style: normal;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cover::after {
+  display: block;
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #2a2c2f;
+  opacity: 0.3;
+}
+
+.cover:hover::after {
+  opacity: 0.8;
+}
+
+@media screen and (min-width: 1280px) {
+  .cover {
+    min-height: 740px;
+  }
+}
