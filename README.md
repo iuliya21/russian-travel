@@ -12,3 +12,5 @@
   ![Grid](https://img.shields.io/badge/grid-7B68EE.svg?style=for-the-badge&logo=grid&logoColor=white)
   
 </div>
+
+https://github.com/iuliya21/russian-travel/assets/106624168/6cb0a76a-8bf6-4d85-b68a-15c14c2270d6
